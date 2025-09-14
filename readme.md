@@ -1,7 +1,29 @@
-# Ping Library
+# Ping Library 
 
 Biblioteca Java para verificar a disponibilidade de sites e normalizar URLs de forma simples e eficiente.
 
+---
+## 📥 Instalação
+
+### Maven
+Adicione o repositório JitPack e a dependência no seu `pom.xml`:
+
+```xml
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+
+<dependencies>
+    <dependency>
+        <groupId>com.github.Sync-BR</groupId>
+        <artifactId>WebsitePingLib</artifactId>
+        <version>v1.0.2</version>
+    </dependency>
+</dependencies>
+```
 ---
 
 ## 📦 Sobre a Biblioteca
