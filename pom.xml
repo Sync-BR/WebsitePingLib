@@ -2,16 +2,16 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.sync.ping</groupId>
-  <artifactId>ping</artifactId>
+  <artifactId>WebsitePingLib</artifactId>
   <packaging>jar</packaging>
-    <version>v1.0.0</version>
+    <version>v1.0.2</version>
   <name>ping</name>
   <url>http://maven.apache.org</url>
   <dependencies>
       <dependency>
-          <groupId>org.junit.jupiter</groupId>
-          <artifactId>junit-jupiter-api</artifactId>
-          <version>5.10.0</version>
+          <groupId>junit</groupId>
+          <artifactId>junit</artifactId>
+          <version>3.8.1</version>
           <scope>test</scope>
       </dependency>
 
@@ -25,7 +25,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.github.sync.ping.Ping</mainClass>
+                            <mainClass>com.github.sync.ping</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

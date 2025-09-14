@@ -23,6 +23,10 @@ public class Ping {
         }
     }
 
+    public static void main(String[] args) {
+        Ping ping = new Ping();
+        ping.checkWebSite("https://www.google.com");
+    }
 
 
 }
