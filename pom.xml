@@ -4,7 +4,7 @@
   <groupId>com.github.sync.ping</groupId>
   <artifactId>ping</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+    <version>v1.0.0</version>
   <name>ping</name>
   <url>http://maven.apache.org</url>
   <dependencies>

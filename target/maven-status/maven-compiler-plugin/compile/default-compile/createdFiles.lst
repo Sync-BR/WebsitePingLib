@@ -1,0 +1,3 @@
+com\github\sync\ping\util\FixUrl.class
+com\github\sync\ping\handle\HttpRequestException.class
+com\github\sync\ping\Ping.class
