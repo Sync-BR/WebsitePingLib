@@ -1,0 +1,6 @@
+com\github\sync\ping\enumeration\Domain.class
+com\github\sync\ping\util\FixUrl.class
+com\github\sync\ping\Ping.class
+com\github\sync\ping\handle\DomainHandle.class
+com\github\sync\ping\handle\HttpRequestException.class
+com\github\sync\ping\util\DomainIdentify.class
