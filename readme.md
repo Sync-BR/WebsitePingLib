@@ -20,7 +20,7 @@ Adicione o repositório JitPack e a dependência no seu `pom.xml`:
     <dependency>
         <groupId>com.github.Sync-BR</groupId>
         <artifactId>WebsitePingLib</artifactId>
-        <version>v1.0.4</version>
+        <version>v1.0.5</version>
     </dependency>
 </dependencies>
 ```
